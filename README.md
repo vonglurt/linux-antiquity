@@ -20,6 +20,8 @@ travels with every copy Copal installs.
 
 *Alpine 3.24 in a UTM guest, on llvmpipe. No GPU anywhere in this picture.*
 
+A tour of the desktop in pictures, part by part, is [docs/FEATURE_GUIDE.md](./docs/FEATURE_GUIDE.md).
+
 ## What Copal adds
 
 **The menu, in Omarchy's shape.** One window, two sides. `Super` + `Space`
